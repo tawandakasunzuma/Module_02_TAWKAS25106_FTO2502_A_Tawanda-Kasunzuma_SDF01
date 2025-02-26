@@ -45,15 +45,15 @@
 
 Here are some of my milestone projects (to be updated as I progress!):
 
-### **1️⃣ First GitHub Project**
+### ** 1️⃣ First GitHub Project**
 
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### ** 2️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS  
 🔹 **Status:** ⏳ In Progress
 
 ---
